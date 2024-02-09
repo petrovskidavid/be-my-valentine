@@ -6,7 +6,7 @@ export default function CelebrationPage() {
 
   return (
     <div className="celebration-container">
-      Well since you're so sure, you got youself a date on February 14th 😉
+      Well since you're so sure, you got yourself a date on February 14th 😉
       <br />
       <br />
       I'm very excited to spend our very first Valentine's Day together my love.
@@ -24,7 +24,7 @@ export default function CelebrationPage() {
       <br />
       Yours only.
       <br />
-      David!
+      David
     </div>
   );
 }
