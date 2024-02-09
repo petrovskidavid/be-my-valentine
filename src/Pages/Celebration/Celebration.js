@@ -19,7 +19,7 @@ export default function CelebrationPage() {
       <br />
       You are my world.
       <br />
-      <br />I love you with my whole heart my Jordyn!
+      <br />I love you with my whole heart my beautiful Jordyn!
       <br />
       <br />
       Yours only,
