@@ -22,7 +22,7 @@ export default function CelebrationPage() {
       <br />I love you with my whole heart my Jordyn!
       <br />
       <br />
-      Yours only.
+      Yours only,
       <br />
       David
     </div>
